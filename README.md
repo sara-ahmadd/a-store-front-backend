@@ -25,8 +25,8 @@
 - NODE_ENV=dev
 - pgHOST =localhost
 - pgPORT =5432
-- pgUSER =postgres
-- pgPASSWORD = 123
+- pgUSER =********
+- pgPASSWORD =******
 - pgDB = store_udacity_dev
 - pgDB_TEST = store_udacity_test
 
