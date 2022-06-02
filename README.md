@@ -32,8 +32,8 @@
 
 - # setting salt and pepper needed for hashing the passwords
 
-- BCRYPT_PASSWORD=your-hashed-password
-- SALT_ROUNDS=10
+- BCRYPT_PASSWORD=************
+- SALT_ROUNDS=******
 
 - # adding secret token for JWT authorization.
 - TOKEN_SECRET= your-secret-web-token-only-me
